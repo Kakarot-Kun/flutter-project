@@ -1,0 +1,1 @@
+{"version":"0.2.0","configurations":[{"name":"Chronomètre (Chrome)","request":"launch","type":"dart","cwd":"${workspaceFolder}","program":"lib/main.dart","deviceId":"chrome"}]}
